@@ -64,5 +64,5 @@ For questions or feedback, reach out to John Doe at okhaniemmanuel7@gmail.com
 - Data visualization techniques inspired by [Data Visualization Course](https://www.example.com/dataviz-course).
 - Regional map visual from [Power BI Custom Visuals](https://appsource.microsoft.com/powerbi).
 
-![Analytic Overview](https://ibb.co/NtnmvXM)
+![Analytic Overview](https://i.ibb.co/ydBY9Dr/Maven-Analytic.png)
 
