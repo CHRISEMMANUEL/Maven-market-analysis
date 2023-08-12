@@ -58,7 +58,7 @@ Contributions are welcome! To contribute:
 4. Submit a pull request.
 
 ## Contact
-For questions or feedback, reach out to John Doe at okhaniemmanuel7@gmail.com
+For questions or feedback, reach out to Emmanuel Chris at okhaniemmanuel7@gmail.com
 
 ## Acknowledgments
 - Data visualization techniques inspired by [Data Visualization Course](https://www.example.com/dataviz-course).
